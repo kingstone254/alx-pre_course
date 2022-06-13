@@ -1,2 +1,2 @@
 my fisrt readme
-be upto date
+be up to date corection
